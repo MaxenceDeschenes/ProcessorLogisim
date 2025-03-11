@@ -1,0 +1,1 @@
+This repository contains a simplified CPU architecture designed for educational purposes. The design includes key components such as the **Control FSM, ALU, Register Bank, Memory, and Interconnect Bus Interface
